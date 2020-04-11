@@ -56,3 +56,5 @@ https://osintframework.com/
 https://github.com/redhuntlabs/Awesome-Asset-Discovery
 ## Frida scripting guide
 https://neo-geo2.gitbook.io/adventures-on-security/frida-scripting-guide/frida-scripting-guide
+## Learning new technology
+https://learnxinyminutes.com/
