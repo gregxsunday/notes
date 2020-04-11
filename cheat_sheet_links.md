@@ -43,14 +43,16 @@ https://eng.getwisdom.io/awesome-unicode/##onetomanycasemappings
 2.x https://spaceraccoon.dev/remote-code-execution-in-three-acts-chaining-exposed-actuators-and-h2-database
 ## Api keys reference
 https://github.com/streaak/keyhacks
-# AWS
+## AWS
 https://github.com/sa7mon/S3Scanner
 https://github.com/jordanpotti/CloudScraper
 https://github.com/MindPointGroup/cloudfrunt
 https://github.com/RhinoSecurityLabs/pacu
 https://github.com/toniblyx/my-arsenal-of-aws-security-tools
-# TravisCI
+## TravisCI
 https://github.com/lc/secretz
-# OSINT 
+## OSINT 
 https://osintframework.com/
 https://github.com/redhuntlabs/Awesome-Asset-Discovery
+## Frida scripting guide
+https://neo-geo2.gitbook.io/adventures-on-security/frida-scripting-guide/frida-scripting-guide
