@@ -59,3 +59,5 @@ https://github.com/lc/secretz
 https://neo-geo2.gitbook.io/adventures-on-security/frida-scripting-guide/frida-scripting-guide
 ## Learning new technology
 https://learnxinyminutes.com/
+## GraphQL
+* https://carvesystems.com/news/the-5-most-common-graphql-security-vulnerabilities/
