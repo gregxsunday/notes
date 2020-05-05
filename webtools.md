@@ -74,3 +74,6 @@ cvesearch -s 20xx-xxxx
 ```
 # Static analysis
 https://github.com/find-sec-bugs/find-sec-bugs
+# Image memory leaks
+* https://www.sans.org/reading-room/whitepapers/webappsec/uninitialized-memory-disclosures-web-applications-39460
+* https://github.com/v-p-b/image-memleak
