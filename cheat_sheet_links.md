@@ -61,3 +61,5 @@ https://neo-geo2.gitbook.io/adventures-on-security/frida-scripting-guide/frida-s
 https://learnxinyminutes.com/
 ## GraphQL
 * https://carvesystems.com/news/the-5-most-common-graphql-security-vulnerabilities/
+## HTML5
+* https://github.com/anantshri/html5_attack_and_secure
