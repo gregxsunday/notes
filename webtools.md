@@ -64,7 +64,8 @@ sslyze --regular example.com:8443
 ```
 sudo docker run -ti drwetter/testssl.sh example.com:8443
 ```
-
+# XXE
+* https://github.com/BuffaloWill/oxml_xxe
 # MISC
 ```
 parallel -j 4 "do something on {}" :::: my_super_secret_text_file.txt
