@@ -4,12 +4,10 @@ sqlmap
 sqlmap --url='https://example.com' --header='Content-Type: application/x-www-form-urlencoded' --data='username=admin&password=admin' --proxy=http://127.0.0.1:8080 --risk=3 --dbms='Oracle' --level=5 --method=POST -p username
 ```
 # XSS
-XSS Polyglot
-https://polyglot.innerht.ml/
-KNOXSS
-https://knoxss.me/
-XSStrike
-https://github.com/s0md3v/XSStrike
+* XSS Polyglot https://polyglot.innerht.ml/
+* KNOXSS https://knoxss.me/
+* XSStrike https://github.com/s0md3v/XSStrike
+* Image Attacks https://github.com/doyensec/StandardizedImageProcessingTest
 # Subdomain takeover
 subjack
 ```
