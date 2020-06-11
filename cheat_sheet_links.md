@@ -63,3 +63,5 @@ https://learnxinyminutes.com/
 * https://carvesystems.com/news/the-5-most-common-graphql-security-vulnerabilities/
 ## HTML5
 * https://github.com/anantshri/html5_attack_and_secure
+## Certificate authentication
+* https://telekomsecurity.github.io/2020/05/smuggling-http-headers-through-reverse-proxies.html
