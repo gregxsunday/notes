@@ -66,3 +66,5 @@ https://learnxinyminutes.com/
 * https://github.com/anantshri/html5_attack_and_secure
 ## Certificate authentication
 * https://telekomsecurity.github.io/2020/05/smuggling-http-headers-through-reverse-proxies.html
+## SQL injection
+* https://ibreak.software/2020/06/using-sql-injection-to-perform-ssrf-xspa-attacks/
