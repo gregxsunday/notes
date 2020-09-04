@@ -8,6 +8,7 @@ https://github.com/gquere/pwn_jenkins
 * https://speakerdeck.com/iancoldwater/the-path-less-traveled-abusing-kubernetes-defaults
 * https://blog.aquasec.com/dns-spoofing-kubernetes-clusters
 * https://github.com/appsecco/attacking-and-auditing-docker-containers-and-kubernetes-clusters
+* [Gitlab RedTeam attack notes](https://gitlab.com/gitlab-com/gl-security/security-operations/gl-redteam/red-team-tech-notes/-/tree/master/K8s-GKE-attack-notes)
 ## JWT
 https://github.com/ticarpi/jwt_tool/wiki
 ## Android
