@@ -69,3 +69,5 @@ https://learnxinyminutes.com/
 * https://telekomsecurity.github.io/2020/05/smuggling-http-headers-through-reverse-proxies.html
 ## SQL injection
 * https://ibreak.software/2020/06/using-sql-injection-to-perform-ssrf-xspa-attacks/
+## client-side Prototype pollution
+* https://github.com/securitum/research/tree/master/r2020_prototype-pollution
