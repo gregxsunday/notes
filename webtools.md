@@ -71,6 +71,8 @@ parallel -j 4 "do something on {}" :::: my_super_secret_text_file.txt
 ```
 cvesearch -s 20xx-xxxx
 ```
+* taking the parameter names from js files
+https://github.com/Static-Flow/ParameterMiner
 # Static analysis
 https://github.com/find-sec-bugs/find-sec-bugs
 # Image memory leaks
