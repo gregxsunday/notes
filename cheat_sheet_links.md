@@ -1,5 +1,6 @@
 ## XSS
-https://netsec.expert/2020/02/01/xss-in-2020.html
+* https://netsec.expert/2020/02/01/xss-in-2020.html
+* https://ardern.io/2019/06/20/payload-bxss/
 ## Oauth
 https://twitter.com/s0md3v/status/1168846854689132544 
 ## Jenkins
