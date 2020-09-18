@@ -78,3 +78,5 @@ https://github.com/find-sec-bugs/find-sec-bugs
 # Image memory leaks
 * https://www.sans.org/reading-room/whitepapers/webappsec/uninitialized-memory-disclosures-web-applications-39460
 * https://github.com/v-p-b/image-memleak
+# HTTP/2 Request smuggling
+* https://github.com/BishopFox/h2csmuggler
