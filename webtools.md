@@ -64,6 +64,7 @@ sudo docker run -ti drwetter/testssl.sh example.com:8443
 ```
 # XXE
 * https://github.com/BuffaloWill/oxml_xxe
+* https://gist.github.com/honoki/d7035c3ccca1698ec7b541c77b9410cf
 # MISC
 ```
 parallel -j 4 "do something on {}" :::: my_super_secret_text_file.txt
