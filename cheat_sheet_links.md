@@ -72,3 +72,5 @@ https://learnxinyminutes.com/
 * https://ibreak.software/2020/06/using-sql-injection-to-perform-ssrf-xspa-attacks/
 ## client-side Prototype pollution
 * https://github.com/securitum/research/tree/master/r2020_prototype-pollution
+## most ridiculous stock photos representing hackers
+* https://twitter.com/intigriti/status/1172499222207352834
