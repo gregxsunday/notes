@@ -1,6 +1,8 @@
 ## XSS
 * https://netsec.expert/2020/02/01/xss-in-2020.html
+### blind XSS
 * https://ardern.io/2019/06/20/payload-bxss/
+* https://msrc-blog.microsoft.com/2019/11/06/vulnerability-hunting-with-semmle-ql-dom-xss/
 ## Oauth
 https://twitter.com/s0md3v/status/1168846854689132544 
 ## Jenkins
