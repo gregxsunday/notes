@@ -72,6 +72,8 @@ parallel -j 4 "do something on {}" :::: my_super_secret_text_file.txt
 ```
 cvesearch -s 20xx-xxxx
 ```
+* clearing custom wordlist from noise
+https://github.com/BonJarber/SecUtils/blob/master/clean_wordlist/clean_wordlist.sh
 * taking the parameter names from js files
 https://github.com/Static-Flow/ParameterMiner
 # Static analysis
