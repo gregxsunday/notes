@@ -82,6 +82,9 @@ python ~/pentests/tools/Sublist3r/sublist3r.py -d trello.com -b
 gobuster -p http://127.0.0.1:8080 -u https://api.butlerfortrello.com -k -fw -w ~/wordlists/SecLists/Discovery/Web-Content/raft-medium-directories.txt
 ```
 LinkFinder
+# Wordlists
+https://wordlists.assetnote.io/  
+https://github.com/BonJarber/SecUtils/tree/master/clean_wordlist
 # Other
 ```
 cat subdomains.txt | head -n$i | tail -n1000 | aquatone -http-timeout 30000 -out aquatone$i.d -proxy http://127.0.0.1:8080 -ports 443
