@@ -1,3 +1,7 @@
+# Race condition
+https://github.com/TheHackerDev/race-the-web
+# SSRF
+https://blog.assetnote.io/2021/01/13/blind-ssrf-chains/
 # SQL
 sqlmap
 ```
