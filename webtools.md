@@ -87,3 +87,5 @@ https://github.com/find-sec-bugs/find-sec-bugs
 * https://github.com/v-p-b/image-memleak
 # HTTP/2 Request smuggling
 * https://github.com/BishopFox/h2csmuggler
+# Debugging regexes
+* https://www.debuggex.com/
