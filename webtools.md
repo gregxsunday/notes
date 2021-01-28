@@ -1,7 +1,16 @@
 # Race condition
 https://github.com/TheHackerDev/race-the-web
 # SSRF
-https://blog.assetnote.io/2021/01/13/blind-ssrf-chains/
+* https://blog.assetnote.io/2021/01/13/blind-ssrf-chains/
+for dns rebinding:
+```
+make-123.123.123.123-rebind-127.0.0.1-rr.1u.ms
+```
+for multiple DNS records:
+```
+make-192.168.1.1-and-172.217.20.46rr.1u.ms
+```
+source: [Blind SSRF exploitation](https://lab.wallarm.com/blind-ssrf-exploitation/)
 # SQL
 sqlmap
 ```
