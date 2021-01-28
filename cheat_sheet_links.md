@@ -1,3 +1,5 @@
+## Salesforce
+* https://www.enumerated.de/index/salesforce
 ## XSS
 * https://netsec.expert/2020/02/01/xss-in-2020.html
 ### blind XSS
