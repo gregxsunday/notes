@@ -78,3 +78,5 @@ https://learnxinyminutes.com/
 * https://github.com/securitum/research/tree/master/r2020_prototype-pollution
 ## most ridiculous stock photos representing hackers
 * https://twitter.com/intigriti/status/1172499222207352834
+## Upload file checklist
+* https://gofile.io/d/vB57yz
