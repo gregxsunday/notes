@@ -1,3 +1,5 @@
+## Reverse shell generator
+* https://www.revshells.com/
 ## JSONs
 * https://labs.bishopfox.com/tech-blog/an-exploration-of-json-interoperability-vulnerabilities
 ## Reverse proxies
